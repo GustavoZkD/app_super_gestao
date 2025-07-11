@@ -2,6 +2,17 @@
 
 Aplicação web desenvolvida em Laravel com o objetivo de realizar a gestão de clientes, produtos, pedidos e fornecedores. Este projeto tem fins educacionais e serve como base para aprendizado de conceitos fundamentais do Laravel, como MVC, Eloquent ORM, migrações, relacionamentos, autenticação e muito mais.
 
+<img width="2529" height="1398" alt="image" src="https://github.com/user-attachments/assets/83ba4281-76f0-44b6-958a-34237b1d7435" />
+<img width="2465" height="1094" alt="image" src="https://github.com/user-attachments/assets/574726fd-1b63-44c5-9850-d30302c7f3a2" />
+<img width="2448" height="687" alt="image" src="https://github.com/user-attachments/assets/7bfe5fa7-3dbc-460f-ba9a-173bcc047c94" />
+<img width="2511" height="630" alt="image" src="https://github.com/user-attachments/assets/1fc2bebc-547f-4d91-b5f3-d5f966a0b3d9" />
+<img width="2500" height="511" alt="image" src="https://github.com/user-attachments/assets/19ad319f-8538-47cc-9376-45ccf84585ab" />
+<img width="2486" height="595" alt="image" src="https://github.com/user-attachments/assets/0a851023-dfa9-4456-824f-37c49910627c" />
+<img width="2470" height="994" alt="image" src="https://github.com/user-attachments/assets/0c3c9c65-df8a-4df5-8356-8ae52cdac761" />
+
+
+
+
 ## 🚀 Funcionalidades
 
 - Cadastro, listagem, edição e exclusão de:
